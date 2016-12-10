@@ -1,0 +1,5 @@
+:Explore  - Command to explore files
+:tabe     - To open a file in another tab
+:tabN     - Switching between tabs
+:find     - to find files
+:new      - Create a new vim window in current terminal
