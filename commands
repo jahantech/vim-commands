@@ -1,5 +1,13 @@
 :Explore  - Command to explore files
+:tabnew   - Top open a new tab
+:tabclose - To close a tab
+:exit     - To close last tab
+:quit     - To close last tab
 :tabe     - To open a file in another tab
 :tabN     - Switching between tabs
 :find     - to find files
 :new      - Create a new vim window in current terminal
+:vsplit   - open another file in vertical split
+:diffthis - Turn on diff buffer
+:diffoff  - Disable diff buffer
+
